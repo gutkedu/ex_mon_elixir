@@ -1,4 +1,4 @@
-defmodule ExMonElixir.MixProject do
+defmodule ExMon.MixProject do
   use Mix.Project
 
   def project do

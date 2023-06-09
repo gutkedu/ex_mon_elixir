@@ -1,4 +1,4 @@
-# ExMonElixir
+# ExMon
 
 **TODO: Add description**
 
